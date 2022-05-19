@@ -1,1 +1,3 @@
-# java_computer-lab-app
+# COMPUTER LAB
+
+* main method: [ComputerLab.java](ComputerLab.java)
